@@ -10,3 +10,6 @@ for food in it_food:
 
 print(next(it_food))    #STtopIteration
 
+# 소스 코드 추가 버전
+
+print(next(it_food))
